@@ -11,7 +11,7 @@ Cada programa pode ser executado individualmente ou po-se usar uma sequencia def
 Chamada de todos os outros programas de demonstração em execução única.
 
 ## demo_espiral()
-Demonstração de uma espiral tridimensional e outros movimentos do robô=que ilustram sua capacidade de movimento e graus de liberdade.
+Demonstração de uma espiral tridimensional e outros movimentos do robô que ilustram sua capacidade de movimento e graus de liberdade.
 
 ## demo_toolctrl()
 Demonstração da capacidade do robô de manter um ponto fixo no espaço variando apenas sua orientação, fazendo os movimentos de juntas 
