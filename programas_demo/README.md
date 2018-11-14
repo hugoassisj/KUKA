@@ -7,35 +7,35 @@ do robô - atentar-se ao *setup* do ambiente real.
 
 Cada programa pode ser executado individualmente ou po-se usar uma sequencia definida em outro arquivo.
 
-##demo_main()
+## demo_main()
 Chamada de todos os outros programas de demonstração em execução única.
 
-##demo_espiral()
+## demo_espiral()
 Demonstração de uma espiral tridimensional e outros movimentos do robô=que ilustram sua capacidade de movimento e graus de liberdade.
 
-##demo_toolctrl()
+## demo_toolctrl()
 Demonstração da capacidade do robô de manter um ponto fixo no espaço variando apenas sua orientação, fazendo os movimentos de juntas 
 necessários.
 
-##demo_pegaCaneta()
+## demo_pegaCaneta()
 Pega a ferramenta caneta do porta-caneta.
 
-##demo_escreve()
+## demo_escreve()
 Escreve o texto "UNIVERSIDADE FEDERAL DE ITAJUBÁ CAMPUS-ITABIRA"  no quadro branco.
 
-##demo_guardaCaneta()
+## demo_guardaCaneta()
 Coloca a ferramenta caneta no porta-caneta.
 
-##demo_triangulo_apenas()
+## demo_triangulo_apenas()
 Demonstração *hot wire* de trajetória usando o gancho e o triângulo.
 
-##demo_hexagono()
+## demo_hexagono()
 Demonstração *hot wire* de trajetória usando o gancho e o hexágono.
 
-##demo_posicionaCubos()
+## demo_posicionaCubos()
 Demonstração de paletização que move os cubos do porta-cubos e os posiciona sobre a mesa curva.
 
-##demo_guardaCubos()
+## demo_guardaCubos()
 Demonstração de paletização que move os cubos da mesa curva e os posiciona de volta no porta-cubos .
 
 
