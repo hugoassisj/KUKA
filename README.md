@@ -1,6 +1,6 @@
 # KUKA
 
-Este repositório contém todo o material utilizado no "Manual de Utilização dos *Softwares KUKA.Sim* e *KUKA.OfficeLite* no Ambiente de Simulação Integrado do Robô *KUKA KR 6 R700*" utilizado no Laboratório de Robótica da Universidade Federal de Itajubá - *campus* Itabira.
+Este repositório contém todo o material usado na elaboração do "Manual de Utilização dos *Softwares KUKA.Sim* e *KUKA.OfficeLite* no Ambiente de Simulação Integrado do Robô *KUKA KR 6 R700*", utilizado no Laboratório de Robótica da Universidade Federal de Itajubá - *campus* Itabira.
 
 ## Softwares
    * KUKA.Sim Pro 2.2
