@@ -9,7 +9,7 @@ Este repositório contém todo o material usado na elaboração do "Manual de Ut
    * SolidWorks 2018
   
 
-![placa](https://user-images.githubusercontent.com/45035051/48899151-e657ef00-ee35-11e8-8dd8-00a10b38436d.png)
+![g1164](https://user-images.githubusercontent.com/45035051/49219505-ac996200-f3ba-11e8-9bc4-279d12e30d25.png)
 
 
   ### Autores:
