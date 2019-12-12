@@ -1,6 +1,5 @@
 
 [![HitCount](http://hits.dwyl.io/hugoassisj/KUKA.svg)](http://hits.dwyl.io/hugoassisj/KUKA)
-![Downloads](https://img.shields.io/github/downloads/hugoassisj/KUKA/total.svg?style=flat-square)
 
 # KUKA
 
